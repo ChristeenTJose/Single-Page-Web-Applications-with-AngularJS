@@ -3,5 +3,5 @@ My assignment solutions for the MOOC course "Single Page Web Applications with A
 
 Assignment 1 Solution [GitHub Pages](https://christeentjose.github.io/Single-Page-Web-Applications-with-AngularJS/Module%201%20Solution/)
 
-Assignment 1 Solution [GitHub Pages](https://christeentjose.github.io/Single-Page-Web-Applications-with-AngularJS/Module%202%20Solution/)
+Assignment 2 Solution [GitHub Pages](https://christeentjose.github.io/Single-Page-Web-Applications-with-AngularJS/Module%202%20Solution/)
 
